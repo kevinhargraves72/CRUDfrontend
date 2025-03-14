@@ -17,5 +17,3 @@ app.listen(PORT, () => {
     connectDB();
     console.log("Server started at http://localhost:" + PORT);
 })
-
-//ZwONeL0qftg7yQUS
